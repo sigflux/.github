@@ -1,6 +1,6 @@
 # sigflux
 
-R. data. web.
+software for data.
 
 our services:
 
