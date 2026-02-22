@@ -1,6 +1,6 @@
 # sigflux
 
-software for data in motion.
+R. data. web.
 
 our services:
 
