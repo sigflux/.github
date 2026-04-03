@@ -1,9 +1,9 @@
 # sigflux
 
-software for data.
+software for data teams.
 
 our services:
 
-- backend & API systems
 - data pipelines & processing
 - internal tools & data interfaces
+- backend & API systems
